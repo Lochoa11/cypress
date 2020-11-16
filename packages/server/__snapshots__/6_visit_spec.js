@@ -734,11 +734,12 @@ exports['e2e visit / low response timeout / calls onBeforeLoad when overwriting 
   │ Spec Ran:     issue_2196_spec.coffee                                                           │
   └────────────────────────────────────────────────────────────────────────────────────────────────┘
 
+Warning: We failed processing this video.
 
-  (Video)
+This error will not alter the exit code.
 
-  -  Started processing:  Compressing to 32 CRF                                                     
-  -  Finished processing: /XXX/XXX/XXX/cypress/videos/issue_2196_spec.coffee.mp4          (X second)
+TimeoutError: operation timed out
+      [stack trace lines]
 
 
 ====================================================================================================
